@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "socialapp-backend", "socialapp-backend\socialapp-backend.csproj", "{9D8CD981-509D-4172-90DB-BFBC9CBA3BC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D8CD981-509D-4172-90DB-BFBC9CBA3BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D8CD981-509D-4172-90DB-BFBC9CBA3BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D8CD981-509D-4172-90DB-BFBC9CBA3BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D8CD981-509D-4172-90DB-BFBC9CBA3BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {022BFC3C-76F5-438E-8218-DD77FEB58E36}
+	EndGlobalSection
+EndGlobal
